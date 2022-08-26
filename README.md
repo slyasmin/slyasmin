@@ -1,10 +1,10 @@
 Sobre mim 
 
-- 👋 oi, meu nome é @slyasmin
-- 👀 Estou interessado em aprender novas imagens
+- 👋 oi, meu nome é Yasmin
+- 👀 Sou professora, e estudo matemática na UEM
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Meu insta é @slyasmin ...
 
 <!---
 slyasmin/slyasmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
